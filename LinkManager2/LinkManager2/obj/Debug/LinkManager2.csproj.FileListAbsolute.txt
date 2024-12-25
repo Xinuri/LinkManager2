@@ -1,0 +1,10 @@
+C:\Users\sergi\source\repos\LinkManager2\LinkManager2\bin\Debug\LinkManager2.exe.config
+C:\Users\sergi\source\repos\LinkManager2\LinkManager2\bin\Debug\LinkManager2.exe
+C:\Users\sergi\source\repos\LinkManager2\LinkManager2\bin\Debug\LinkManager2.pdb
+C:\Users\sergi\source\repos\LinkManager2\LinkManager2\obj\Debug\LinkManager2.csproj.AssemblyReference.cache
+C:\Users\sergi\source\repos\LinkManager2\LinkManager2\obj\Debug\LinkManager2.Form1.resources
+C:\Users\sergi\source\repos\LinkManager2\LinkManager2\obj\Debug\LinkManager2.Properties.Resources.resources
+C:\Users\sergi\source\repos\LinkManager2\LinkManager2\obj\Debug\LinkManager2.csproj.GenerateResource.cache
+C:\Users\sergi\source\repos\LinkManager2\LinkManager2\obj\Debug\LinkManager2.csproj.CoreCompileInputs.cache
+C:\Users\sergi\source\repos\LinkManager2\LinkManager2\obj\Debug\LinkManager2.exe
+C:\Users\sergi\source\repos\LinkManager2\LinkManager2\obj\Debug\LinkManager2.pdb
